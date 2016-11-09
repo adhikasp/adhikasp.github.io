@@ -14,7 +14,7 @@ tags:
   - "Indonesia"
 ---
 Seorang developer tentu tidak asing dengan situs-situs berbagi kode seperti
-[GitHub]<https://github.com>, [BitBucket]<https://bitbucket.com>, ataupun
+[GitHub](https://github.com), [BitBucket](https://bitbucket.com), ataupun
 (almarhum) Google Code. Dalam situs tersebut, banyak sekali software _open
 source_ yang dapat dengan di download dan digunakan secara bebas. Umumnya produk
 _open source_ sangat digemari developer. Tentu saja, program yang dibuat oleh
