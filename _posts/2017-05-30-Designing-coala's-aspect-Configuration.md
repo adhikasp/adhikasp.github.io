@@ -12,6 +12,8 @@ tags:
   - "coala"
 ---
 
+This post is part of my GSOC journey in coala.
+
 With the emerge of aspect project in coala, come the need to redefine how
 configuration works and define various new parameter that should control how
 the aspect should run.
