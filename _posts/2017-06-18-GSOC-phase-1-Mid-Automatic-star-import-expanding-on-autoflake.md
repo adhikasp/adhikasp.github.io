@@ -1,5 +1,5 @@
 ---
-title: "Phase 1 Mid - Automatic star import expanding on autoflake"
+title: "GSOC Phase 1 Mid - Automatic star import expanding on autoflake"
 layout: single
 excerpt: "In this week, I was [writting a patch](https://github.com/myint/autoflake/pull/18) 
 into [autoflake](https://github.com/myint/autoflake) for a new feature that

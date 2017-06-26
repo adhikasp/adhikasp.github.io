@@ -1,5 +1,5 @@
 ---
-title: "GSOC Phase 1 Mid - Laying groundwork for practical aspects API"
+title: "GSOC Phase 1 Late - Laying groundwork for practical aspects API"
 layout: single
 excerpt: "This time, I was laying groundwork to prepare practical aspects API
 that coala could use in its core/processing part and in bears. Current aspect

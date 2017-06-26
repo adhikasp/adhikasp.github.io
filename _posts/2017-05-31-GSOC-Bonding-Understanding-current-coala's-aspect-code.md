@@ -1,5 +1,5 @@
 ---
-title: "Understanding current coala's aspect code"
+title: "GSOC Bonding - Understanding current coala's aspect code"
 layout: single
 excerpt: "This post is part of my GSOC journey in coala. Even though aspect
 project in coala still in its infancy, there are already 
