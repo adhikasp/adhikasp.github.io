@@ -13,9 +13,9 @@ tags:
 
 This post is part of my GSOC journey in coala.
 
-Because aspect is still new and experimental, information and other support
-about it is stil. Also, not all bear in coala (read: none of them) support
-aspect. And it will be a long time before it happen. So I think it's important
+Because aspect is still new and experimental, many things around it is still
+untested. Also, not all bear in coala (read: none of them) support aspect.
+And it will be a long time before it happen. So I think it's important
 to make the migration process became more easy.
 
 In this phase, I try to polish up feature so hopefully it will became more
@@ -43,9 +43,9 @@ Make sure users is informed what happen (if something goes wrong). Cases like
 setting `bears` and `aspects` setting at the same time will ignore the `bears`
 setting and missing or invalid `language` setting should throw a warning logs.
 
-<https://github.com/coala/coala/pull/4582/files>
+<https://github.com/coala/coala/pull/4582>
 
-I also use this opurtunity to refactor the verification code into its own
+I also use this opportunity to refactor the verification code into its own
 function instead of separated into various function in order to make it more
 easier to read (hopefully).
 
@@ -80,3 +80,10 @@ sure bear got aspectized easily. This will map a bear setting with aspect.
 
 In here I write a test that run `coala` with aspect configuration to make sure
 everything work correctly.
+
+In coala/coala itself, I write an end-to-end test that call `coala` cli to run
+with aspect. The purpose is to make sure every component related to aspect
+atleast can run without error.
+
+The second part is to create a showcase project like from the user perspective.
+Ideally it could automatically update along with coala.
